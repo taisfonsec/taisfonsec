@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, estou em busca de uma oportunidade de emprego
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
+- 😄 Pronomes: Ela/Dela
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisfonsec&show_icons=true&theme=tokyonight">

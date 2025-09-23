@@ -23,4 +23,8 @@
 
 ##
 
-![Snake animation](https://github.com/taisfonsec.git)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taisfonsec/taisfonsec/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taisfonsec/taisfonsec/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/taisfonsec/taisfonsec/output/github-contribution-grid-snake.svg">
+</picture>

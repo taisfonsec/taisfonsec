@@ -1,12 +1,14 @@
-## Olá! Eu sou a Taís Fonseca 👋
+## Hello, welcome to my space! 👋
 
-- 🔭 Atualmente, estou em busca de uma oportunidade de emprego
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente, estou em busca da minha primeira oportunidade de emprego na área de tecnologia 
+- 🌱 Estou cursando **Análise e Desenvolvimento de Sistemas**  
+- 👯 Tenho interesse em colaborar em projetos de **desenvolvimento de software**  
+- 🤔 Estou sempre em busca de aprender novas tecnologias e boas práticas de programação  
+- 💬 Pode perguntar sobre programação, estudos ou tecnologia!  
+- 😄 Pronomes: ela/dela  
+- ⚡ Curiosidade: adoro aprender coisas novas e sou apaixonada por tecnologia  
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisfonsec&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisfonsec&layout=compact&theme=tokyonight">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
   ##
  

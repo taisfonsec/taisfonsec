@@ -23,4 +23,4 @@
 
 ##
 
-![Snake animation](https://github.com/taisfonsec)
+![Snake animation](https://github.com/taisfonsec.git)
